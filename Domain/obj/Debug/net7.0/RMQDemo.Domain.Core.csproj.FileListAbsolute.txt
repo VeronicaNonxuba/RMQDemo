@@ -1,0 +1,12 @@
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/bin/Debug/net7.0/RMQDemo.Domain.Core.deps.json
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/bin/Debug/net7.0/RMQDemo.Domain.Core.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/bin/Debug/net7.0/RMQDemo.Domain.Core.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.csproj.AssemblyReference.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.AssemblyInfoInputs.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.AssemblyInfo.cs
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.csproj.CoreCompileInputs.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/refint/RMQDemo.Domain.Core.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/RMQDemo.Domain.Core.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/Debug/net7.0/ref/RMQDemo.Domain.Core.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZvUtaXawwsJuzK09A/Pys29tquYbsPqeyLLE32pYNYt05T1xev0+oj7duNLqgduBeewx/koflP+mRsvmryZ9XA==",
+  "success": true,
+  "projectFilePath": "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/RMQDemo.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/veronican/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/home/veronican/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/veronican/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/veronican/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/veronican/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/veronican/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
