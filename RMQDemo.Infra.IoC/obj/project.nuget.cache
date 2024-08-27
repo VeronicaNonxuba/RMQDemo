@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5LsZ9boVlYYud+8TNwx2ndt9bL+k1zTSe3DryeVu41B4WpmLWDzsteER61ouBUsJ2lH0NLjzCZvQ89sJ1IoYew==",
+  "success": true,
+  "projectFilePath": "/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/RMQDemo.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "/home/veronican/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/veronican/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

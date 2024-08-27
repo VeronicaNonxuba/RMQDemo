@@ -1,0 +1,12 @@
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/bin/Debug/net7.0/RMQDemo.Infra.IoC.deps.json
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/bin/Debug/net7.0/RMQDemo.Infra.IoC.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/bin/Debug/net7.0/RMQDemo.Infra.IoC.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.csproj.AssemblyReference.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.AssemblyInfoInputs.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.AssemblyInfo.cs
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.csproj.CoreCompileInputs.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/refint/RMQDemo.Infra.IoC.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/RMQDemo.Infra.IoC.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.IoC/obj/Debug/net7.0/ref/RMQDemo.Infra.IoC.dll
