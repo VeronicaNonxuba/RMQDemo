@@ -1,0 +1,15 @@
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.csproj.AssemblyReference.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.AssemblyInfoInputs.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.AssemblyInfo.cs
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.csproj.CoreCompileInputs.cache
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/bin/Debug/net7.0/RMQDemo.Infra.Bus.deps.json
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/bin/Debug/net7.0/RMQDemo.Infra.Bus.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/bin/Debug/net7.0/RMQDemo.Infra.Bus.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/bin/Debug/net7.0/RMQDemo.Domain.Core.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/bin/Debug/net7.0/RMQDemo.Domain.Core.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.csproj.CopyComplete
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/refint/RMQDemo.Infra.Bus.dll
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/RMQDemo.Infra.Bus.pdb
+/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/Debug/net7.0/ref/RMQDemo.Infra.Bus.dll

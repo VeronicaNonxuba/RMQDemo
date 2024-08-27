@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/RMQDemo.Infra.Bus.csproj": {}
+  },
+  "projects": {
+    "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/RMQDemo.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/RMQDemo.Domain.Core.csproj",
+        "projectName": "RMQDemo.Domain.Core",
+        "projectPath": "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/RMQDemo.Domain.Core.csproj",
+        "packagesPath": "/home/veronican/.nuget/packages/",
+        "outputPath": "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/veronican/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/RMQDemo.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/RMQDemo.Infra.Bus.csproj",
+        "projectName": "RMQDemo.Infra.Bus",
+        "projectPath": "/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/RMQDemo.Infra.Bus.csproj",
+        "packagesPath": "/home/veronican/.nuget/packages/",
+        "outputPath": "/home/veronican/Projects/RabbitMQ/RMQDemo/RMQDemo.Infra.Bus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/veronican/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/RMQDemo.Domain.Core.csproj": {
+                "projectPath": "/home/veronican/Projects/RabbitMQ/RMQDemo/Domain/RMQDemo.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
